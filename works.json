@@ -1,0 +1,66 @@
+[
+  {
+    "id": "202604-house",
+    "src": "assets/works/202604/房子.svg",
+    "title": "房子",
+    "date": "2026-04-16",
+    "category": "建筑",
+    "summary": "以简化体块表现的像素房屋。"
+  },
+  {
+    "id": "202604-pink-blossom-tree",
+    "src": "assets/works/202604/粉色樱花树.svg",
+    "title": "粉色樱花树",
+    "date": "2026-04-12",
+    "category": "植物",
+    "summary": "一棵保留春日色彩层次的像素樱花树。"
+  },
+  {
+    "id": "202603-tulip",
+    "src": "assets/works/202603/郁金香.svg",
+    "title": "郁金香",
+    "date": "2026-03-21",
+    "category": "植物",
+    "summary": "一株以块面花瓣构成的像素郁金香。"
+  },
+  {
+    "id": "202603-仙人掌",
+    "src": "assets/works/202603/仙人掌.svg",
+    "title": "仙人掌",
+    "date": "2026-03-01",
+    "category": "其他",
+    "summary": ""
+  },
+  {
+    "id": "202603-柠檬",
+    "src": "assets/works/202603/柠檬.svg",
+    "title": "柠檬",
+    "date": "2026-03-01",
+    "category": "其他",
+    "summary": ""
+  },
+  {
+    "id": "202603-樱桃",
+    "src": "assets/works/202603/樱桃.svg",
+    "title": "樱桃",
+    "date": "2026-03-01",
+    "category": "其他",
+    "summary": ""
+  },
+  {
+    "id": "202603-橘子",
+    "src": "assets/works/202603/橘子.svg",
+    "title": "橘子",
+    "date": "2026-03-01",
+    "category": "其他",
+    "summary": ""
+  },
+  {
+    "id": "202603-香蕉",
+    "src": "assets/works/202603/香蕉.svg",
+    "title": "香蕉",
+    "date": "2026-03-01",
+    "category": "其他",
+    "summary": ""
+  }
+]

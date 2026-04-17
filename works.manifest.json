@@ -1,0 +1,20 @@
+{
+  "202603-tulip": {
+    "file": "202603/郁金香.svg",
+    "day": 21,
+    "category": "植物",
+    "summary": "一株以块面花瓣构成的像素郁金香。"
+  },
+  "202604-house": {
+    "file": "202604/房子.svg",
+    "day": 16,
+    "category": "建筑",
+    "summary": "以简化体块表现的像素房屋。"
+  },
+  "202604-pink-blossom-tree": {
+    "file": "202604/粉色樱花树.svg",
+    "day": 12,
+    "category": "植物",
+    "summary": "一棵保留春日色彩层次的像素樱花树。"
+  }
+}

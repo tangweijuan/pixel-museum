@@ -1,0 +1,7 @@
+{
+  "name": "pixel-museum",
+  "private": true,
+  "scripts": {
+    "generate:works": "node scripts/generate-works.js"
+  }
+}

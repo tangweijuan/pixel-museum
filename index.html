@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PIXEL MUSEUM</title>
+    <meta
+      name="description"
+      content="PIXEL MUSEUM 是一个以黑白灰框架呈现的像素作品目录。"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="icon" href="assets/logo-pixel-museum.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="site-header">
+        <img
+          class="site-logo"
+          src="assets/logo-pixel-museum.svg"
+          alt="PIXEL MUSEUM logo"
+          width="128"
+          height="128"
+        />
+        <h1>PIXEL MUSEUM</h1>
+      </header>
+
+      <main>
+        <section class="filters" aria-label="作品分类">
+          <div id="category-filters" class="category-filters"></div>
+        </section>
+
+        <section
+          id="gallery-grid"
+          class="gallery-grid"
+          aria-label="作品列表"
+        ></section>
+      </main>
+
+    </div>
+
+    <div
+      id="work-modal"
+      class="modal"
+      hidden
+      aria-hidden="true"
+      role="dialog"
+      aria-modal="true"
+      aria-labelledby="modal-title"
+    >
+      <div class="modal-backdrop" data-close-modal="true"></div>
+      <div class="modal-panel">
+        <button
+          id="modal-close"
+          class="modal-close"
+          type="button"
+          aria-label="关闭作品详情"
+        >
+          ×
+        </button>
+        <div class="modal-layout">
+          <div class="modal-media">
+            <img id="modal-image" src="" alt="" />
+          </div>
+          <div class="modal-copy">
+            <p id="modal-date" class="modal-meta"></p>
+            <h2 id="modal-title"></h2>
+            <p id="modal-category" class="modal-category"></p>
+            <p id="modal-summary" class="modal-summary"></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
