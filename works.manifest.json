@@ -16,5 +16,257 @@
     "day": 12,
     "category": "植物",
     "summary": "一棵保留春日色彩层次的像素樱花树。"
+  },
+  "202604-about": {
+    "file": "202604/about.svg",
+    "day": 17,
+    "category": "UI",
+    "summary": "用于信息入口的像素风 about 图标。"
+  },
+  "202604-add-image": {
+    "file": "202604/add-image.svg",
+    "day": 17,
+    "category": "UI",
+    "summary": "表现插入图片操作的像素风功能图标。"
+  },
+  "202604-add-layer": {
+    "file": "202604/add-layer.svg",
+    "day": 17,
+    "category": "UI",
+    "summary": "表现新增图层操作的像素风功能图标。"
+  },
+  "202604-brush": {
+    "file": "202604/brush.svg",
+    "day": 17,
+    "category": "UI",
+    "summary": "用于绘制工具入口的像素画笔图标。"
+  },
+  "202604-chevron-down": {
+    "file": "202604/chevron-down.svg",
+    "day": 17,
+    "category": "UI",
+    "summary": "用于下拉展开场景的像素箭头图标。"
+  },
+  "202604-circle": {
+    "file": "202604/circle.svg",
+    "day": 17,
+    "category": "UI",
+    "summary": "用于圆形工具入口的像素图标。"
+  },
+  "202604-clear": {
+    "file": "202604/clear.svg",
+    "day": 17,
+    "category": "UI",
+    "summary": "表现清空画布操作的像素风功能图标。"
+  },
+  "202604-code": {
+    "file": "202604/code.svg",
+    "day": 17,
+    "category": "UI",
+    "summary": "表现代码或开发入口的像素图标。"
+  },
+  "202604-decrease": {
+    "file": "202604/decrease.svg",
+    "day": 17,
+    "category": "UI",
+    "summary": "表现缩减或减小操作的像素图标。"
+  },
+  "202604-delete": {
+    "file": "202604/delete.svg",
+    "day": 17,
+    "category": "UI",
+    "summary": "用于删除操作的像素风图标。"
+  },
+  "202604-download": {
+    "file": "202604/download.svg",
+    "day": 17,
+    "category": "UI",
+    "summary": "用于下载导出场景的像素图标。"
+  },
+  "202604-eraser": {
+    "file": "202604/eraser.svg",
+    "day": 17,
+    "category": "UI",
+    "summary": "用于擦除工具入口的像素橡皮图标。"
+  },
+  "202604-eyedropper": {
+    "file": "202604/eyedropper.svg",
+    "day": 17,
+    "category": "UI",
+    "summary": "表现吸色器工具的像素图标。"
+  },
+  "202604-increase": {
+    "file": "202604/increase.svg",
+    "day": 17,
+    "category": "UI",
+    "summary": "表现增加或放大操作的像素图标。"
+  },
+  "202604-line": {
+    "file": "202604/line.svg",
+    "day": 17,
+    "category": "UI",
+    "summary": "用于直线工具入口的像素图标。"
+  },
+  "202604-link": {
+    "file": "202604/link.svg",
+    "day": 17,
+    "category": "UI",
+    "summary": "表现链接关系的像素风图标。"
+  },
+  "202604-liumao": {
+    "file": "202604/liumao.png",
+    "day": 14,
+    "title": "六毛",
+    "category": "动物",
+    "summary": "一只用像素块表现神态的猫咪肖像。"
+  },
+  "202604-load": {
+    "file": "202604/load.svg",
+    "day": 17,
+    "category": "UI",
+    "summary": "用于载入文件场景的像素功能图标。"
+  },
+  "202604-log": {
+    "file": "202604/log.svg",
+    "day": 17,
+    "category": "UI",
+    "summary": "用于日志或记录入口的像素图标。"
+  },
+  "202604-menu": {
+    "file": "202604/menu.svg",
+    "day": 17,
+    "category": "UI",
+    "summary": "用于菜单导航入口的像素图标。"
+  },
+  "202604-merge-layer": {
+    "file": "202604/merge-layer.svg",
+    "day": 17,
+    "category": "UI",
+    "summary": "表现合并图层操作的像素功能图标。"
+  },
+  "202604-new-file": {
+    "file": "202604/new-file.svg",
+    "day": 17,
+    "category": "UI",
+    "summary": "用于新建文件场景的像素图标。"
+  },
+  "202604-palette": {
+    "file": "202604/palette.svg",
+    "day": 17,
+    "category": "UI",
+    "summary": "表现调色板工具的像素风图标。"
+  },
+  "202604-pixicon-logo": {
+    "file": "202604/pixicon-logo.svg",
+    "day": 17,
+    "category": "UI",
+    "summary": "一枚为像素创作工具绘制的品牌标识。"
+  },
+  "202604-preview": {
+    "file": "202604/preview.svg",
+    "day": 17,
+    "category": "UI",
+    "summary": "用于预览模式入口的像素图标。"
+  },
+  "202604-rectangle": {
+    "file": "202604/rectangle.svg",
+    "day": 17,
+    "category": "UI",
+    "summary": "用于矩形工具入口的像素图标。"
+  },
+  "202604-redo": {
+    "file": "202604/redo.svg",
+    "day": 17,
+    "category": "UI",
+    "summary": "表现重做操作的像素风图标。"
+  },
+  "202604-save": {
+    "file": "202604/save.svg",
+    "day": 17,
+    "category": "UI",
+    "summary": "用于保存操作的像素风功能图标。"
+  },
+  "202604-select": {
+    "file": "202604/select.svg",
+    "day": 17,
+    "category": "UI",
+    "summary": "用于选择工具入口的像素光标图标。"
+  },
+  "202604-simplify-color": {
+    "file": "202604/simplify-color.svg",
+    "day": 17,
+    "category": "UI",
+    "summary": "表现颜色精简功能的像素图标。"
+  },
+  "202604-undo": {
+    "file": "202604/undo.svg",
+    "day": 17,
+    "category": "UI",
+    "summary": "表现撤销操作的像素风图标。"
+  },
+  "202604-visibility-off": {
+    "file": "202604/visibility-off.svg",
+    "day": 17,
+    "category": "UI",
+    "summary": "用于隐藏状态的像素图标。"
+  },
+  "202604-visibility": {
+    "file": "202604/visibility.svg",
+    "day": 17,
+    "category": "UI",
+    "summary": "用于可见状态的像素图标。"
+  },
+  "202604-xiaobaimao": {
+    "file": "202604/小白猫.png",
+    "day": 13,
+    "title": "小白猫",
+    "category": "动物",
+    "summary": "以浅色块面塑造的一只小白猫。"
+  },
+  "202604-autumn": {
+    "file": "202604/秋.svg",
+    "day": 11,
+    "title": "秋",
+    "category": "植物",
+    "summary": "用暖色像素块描绘的秋日树景。"
+  },
+  "202604-mondrian": {
+    "file": "202604/蒙德里安.svg",
+    "day": 10,
+    "title": "蒙德里安",
+    "category": "其他",
+    "summary": "向几何抽象构图致意的一幅像素习作。"
+  },
+  "202604-mini-speaker": {
+    "file": "202604/迷你音响.png",
+    "day": 15,
+    "title": "迷你音响",
+    "category": "家居",
+    "summary": "一台体积小巧、轮廓复古的像素音响。"
+  },
+  "202604-mug": {
+    "file": "202604/马克杯.png",
+    "day": 9,
+    "title": "马克杯",
+    "category": "家居",
+    "summary": "一只带有温度感的像素马克杯。"
+  },
+  "202604-zoom-in": {
+    "file": "202604/zoom-in.svg",
+    "day": 17,
+    "category": "UI",
+    "summary": "表现放大操作的像素图标。"
+  },
+  "202604-zoom-out": {
+    "file": "202604/zoom-out.svg",
+    "day": 17,
+    "category": "UI",
+    "summary": "表现缩小操作的像素图标。"
+  },
+  "202604-zoom-reset": {
+    "file": "202604/zoom-reset.svg",
+    "day": 17,
+    "category": "UI",
+    "summary": "用于重置缩放比例的像素图标。"
   }
 }

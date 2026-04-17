@@ -1,5 +1,285 @@
 [
   {
+    "id": "202604-about",
+    "src": "assets/works/202604/about.svg",
+    "title": "about",
+    "date": "2026-04-17",
+    "category": "UI",
+    "summary": "用于信息入口的像素风 about 图标。"
+  },
+  {
+    "id": "202604-add-image",
+    "src": "assets/works/202604/add-image.svg",
+    "title": "add-image",
+    "date": "2026-04-17",
+    "category": "UI",
+    "summary": "表现插入图片操作的像素风功能图标。"
+  },
+  {
+    "id": "202604-add-layer",
+    "src": "assets/works/202604/add-layer.svg",
+    "title": "add-layer",
+    "date": "2026-04-17",
+    "category": "UI",
+    "summary": "表现新增图层操作的像素风功能图标。"
+  },
+  {
+    "id": "202604-brush",
+    "src": "assets/works/202604/brush.svg",
+    "title": "brush",
+    "date": "2026-04-17",
+    "category": "UI",
+    "summary": "用于绘制工具入口的像素画笔图标。"
+  },
+  {
+    "id": "202604-chevron-down",
+    "src": "assets/works/202604/chevron-down.svg",
+    "title": "chevron-down",
+    "date": "2026-04-17",
+    "category": "UI",
+    "summary": "用于下拉展开场景的像素箭头图标。"
+  },
+  {
+    "id": "202604-circle",
+    "src": "assets/works/202604/circle.svg",
+    "title": "circle",
+    "date": "2026-04-17",
+    "category": "UI",
+    "summary": "用于圆形工具入口的像素图标。"
+  },
+  {
+    "id": "202604-clear",
+    "src": "assets/works/202604/clear.svg",
+    "title": "clear",
+    "date": "2026-04-17",
+    "category": "UI",
+    "summary": "表现清空画布操作的像素风功能图标。"
+  },
+  {
+    "id": "202604-code",
+    "src": "assets/works/202604/code.svg",
+    "title": "code",
+    "date": "2026-04-17",
+    "category": "UI",
+    "summary": "表现代码或开发入口的像素图标。"
+  },
+  {
+    "id": "202604-decrease",
+    "src": "assets/works/202604/decrease.svg",
+    "title": "decrease",
+    "date": "2026-04-17",
+    "category": "UI",
+    "summary": "表现缩减或减小操作的像素图标。"
+  },
+  {
+    "id": "202604-delete",
+    "src": "assets/works/202604/delete.svg",
+    "title": "delete",
+    "date": "2026-04-17",
+    "category": "UI",
+    "summary": "用于删除操作的像素风图标。"
+  },
+  {
+    "id": "202604-download",
+    "src": "assets/works/202604/download.svg",
+    "title": "download",
+    "date": "2026-04-17",
+    "category": "UI",
+    "summary": "用于下载导出场景的像素图标。"
+  },
+  {
+    "id": "202604-eraser",
+    "src": "assets/works/202604/eraser.svg",
+    "title": "eraser",
+    "date": "2026-04-17",
+    "category": "UI",
+    "summary": "用于擦除工具入口的像素橡皮图标。"
+  },
+  {
+    "id": "202604-eyedropper",
+    "src": "assets/works/202604/eyedropper.svg",
+    "title": "eyedropper",
+    "date": "2026-04-17",
+    "category": "UI",
+    "summary": "表现吸色器工具的像素图标。"
+  },
+  {
+    "id": "202604-increase",
+    "src": "assets/works/202604/increase.svg",
+    "title": "increase",
+    "date": "2026-04-17",
+    "category": "UI",
+    "summary": "表现增加或放大操作的像素图标。"
+  },
+  {
+    "id": "202604-line",
+    "src": "assets/works/202604/line.svg",
+    "title": "line",
+    "date": "2026-04-17",
+    "category": "UI",
+    "summary": "用于直线工具入口的像素图标。"
+  },
+  {
+    "id": "202604-link",
+    "src": "assets/works/202604/link.svg",
+    "title": "link",
+    "date": "2026-04-17",
+    "category": "UI",
+    "summary": "表现链接关系的像素风图标。"
+  },
+  {
+    "id": "202604-load",
+    "src": "assets/works/202604/load.svg",
+    "title": "load",
+    "date": "2026-04-17",
+    "category": "UI",
+    "summary": "用于载入文件场景的像素功能图标。"
+  },
+  {
+    "id": "202604-log",
+    "src": "assets/works/202604/log.svg",
+    "title": "log",
+    "date": "2026-04-17",
+    "category": "UI",
+    "summary": "用于日志或记录入口的像素图标。"
+  },
+  {
+    "id": "202604-menu",
+    "src": "assets/works/202604/menu.svg",
+    "title": "menu",
+    "date": "2026-04-17",
+    "category": "UI",
+    "summary": "用于菜单导航入口的像素图标。"
+  },
+  {
+    "id": "202604-merge-layer",
+    "src": "assets/works/202604/merge-layer.svg",
+    "title": "merge-layer",
+    "date": "2026-04-17",
+    "category": "UI",
+    "summary": "表现合并图层操作的像素功能图标。"
+  },
+  {
+    "id": "202604-new-file",
+    "src": "assets/works/202604/new-file.svg",
+    "title": "new-file",
+    "date": "2026-04-17",
+    "category": "UI",
+    "summary": "用于新建文件场景的像素图标。"
+  },
+  {
+    "id": "202604-palette",
+    "src": "assets/works/202604/palette.svg",
+    "title": "palette",
+    "date": "2026-04-17",
+    "category": "UI",
+    "summary": "表现调色板工具的像素风图标。"
+  },
+  {
+    "id": "202604-pixicon-logo",
+    "src": "assets/works/202604/pixicon-logo.svg",
+    "title": "pixicon-logo",
+    "date": "2026-04-17",
+    "category": "UI",
+    "summary": "一枚为像素创作工具绘制的品牌标识。"
+  },
+  {
+    "id": "202604-preview",
+    "src": "assets/works/202604/preview.svg",
+    "title": "preview",
+    "date": "2026-04-17",
+    "category": "UI",
+    "summary": "用于预览模式入口的像素图标。"
+  },
+  {
+    "id": "202604-rectangle",
+    "src": "assets/works/202604/rectangle.svg",
+    "title": "rectangle",
+    "date": "2026-04-17",
+    "category": "UI",
+    "summary": "用于矩形工具入口的像素图标。"
+  },
+  {
+    "id": "202604-redo",
+    "src": "assets/works/202604/redo.svg",
+    "title": "redo",
+    "date": "2026-04-17",
+    "category": "UI",
+    "summary": "表现重做操作的像素风图标。"
+  },
+  {
+    "id": "202604-save",
+    "src": "assets/works/202604/save.svg",
+    "title": "save",
+    "date": "2026-04-17",
+    "category": "UI",
+    "summary": "用于保存操作的像素风功能图标。"
+  },
+  {
+    "id": "202604-select",
+    "src": "assets/works/202604/select.svg",
+    "title": "select",
+    "date": "2026-04-17",
+    "category": "UI",
+    "summary": "用于选择工具入口的像素光标图标。"
+  },
+  {
+    "id": "202604-simplify-color",
+    "src": "assets/works/202604/simplify-color.svg",
+    "title": "simplify-color",
+    "date": "2026-04-17",
+    "category": "UI",
+    "summary": "表现颜色精简功能的像素图标。"
+  },
+  {
+    "id": "202604-undo",
+    "src": "assets/works/202604/undo.svg",
+    "title": "undo",
+    "date": "2026-04-17",
+    "category": "UI",
+    "summary": "表现撤销操作的像素风图标。"
+  },
+  {
+    "id": "202604-visibility",
+    "src": "assets/works/202604/visibility.svg",
+    "title": "visibility",
+    "date": "2026-04-17",
+    "category": "UI",
+    "summary": "用于可见状态的像素图标。"
+  },
+  {
+    "id": "202604-visibility-off",
+    "src": "assets/works/202604/visibility-off.svg",
+    "title": "visibility-off",
+    "date": "2026-04-17",
+    "category": "UI",
+    "summary": "用于隐藏状态的像素图标。"
+  },
+  {
+    "id": "202604-zoom-in",
+    "src": "assets/works/202604/zoom-in.svg",
+    "title": "zoom-in",
+    "date": "2026-04-17",
+    "category": "UI",
+    "summary": "表现放大操作的像素图标。"
+  },
+  {
+    "id": "202604-zoom-out",
+    "src": "assets/works/202604/zoom-out.svg",
+    "title": "zoom-out",
+    "date": "2026-04-17",
+    "category": "UI",
+    "summary": "表现缩小操作的像素图标。"
+  },
+  {
+    "id": "202604-zoom-reset",
+    "src": "assets/works/202604/zoom-reset.svg",
+    "title": "zoom-reset",
+    "date": "2026-04-17",
+    "category": "UI",
+    "summary": "用于重置缩放比例的像素图标。"
+  },
+  {
     "id": "202604-house",
     "src": "assets/works/202604/房子.svg",
     "title": "房子",
@@ -8,12 +288,60 @@
     "summary": "以简化体块表现的像素房屋。"
   },
   {
+    "id": "202604-mini-speaker",
+    "src": "assets/works/202604/迷你音响.png",
+    "title": "迷你音响",
+    "date": "2026-04-15",
+    "category": "家居",
+    "summary": "一台体积小巧、轮廓复古的像素音响。"
+  },
+  {
+    "id": "202604-liumao",
+    "src": "assets/works/202604/liumao.png",
+    "title": "六毛",
+    "date": "2026-04-14",
+    "category": "动物",
+    "summary": "一只用像素块表现神态的猫咪肖像。"
+  },
+  {
+    "id": "202604-xiaobaimao",
+    "src": "assets/works/202604/小白猫.png",
+    "title": "小白猫",
+    "date": "2026-04-13",
+    "category": "动物",
+    "summary": "以浅色块面塑造的一只小白猫。"
+  },
+  {
     "id": "202604-pink-blossom-tree",
     "src": "assets/works/202604/粉色樱花树.svg",
     "title": "粉色樱花树",
     "date": "2026-04-12",
     "category": "植物",
     "summary": "一棵保留春日色彩层次的像素樱花树。"
+  },
+  {
+    "id": "202604-autumn",
+    "src": "assets/works/202604/秋.svg",
+    "title": "秋",
+    "date": "2026-04-11",
+    "category": "植物",
+    "summary": "用暖色像素块描绘的秋日树景。"
+  },
+  {
+    "id": "202604-mondrian",
+    "src": "assets/works/202604/蒙德里安.svg",
+    "title": "蒙德里安",
+    "date": "2026-04-10",
+    "category": "其他",
+    "summary": "向几何抽象构图致意的一幅像素习作。"
+  },
+  {
+    "id": "202604-mug",
+    "src": "assets/works/202604/马克杯.png",
+    "title": "马克杯",
+    "date": "2026-04-09",
+    "category": "家居",
+    "summary": "一只带有温度感的像素马克杯。"
   },
   {
     "id": "202603-tulip",
