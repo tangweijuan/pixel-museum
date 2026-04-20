@@ -50,7 +50,7 @@ body.modal-open {
   gap: 0.95rem;
   min-height: 88px;
   padding: 1.4rem 1rem 1.2rem;
-  border-bottom: 1px solid var(--line);
+  border-bottom: 1px solid var(--line-soft);
 }
 
 .site-logo {
@@ -70,7 +70,7 @@ body.modal-open {
 }
 
 .filters {
-  border-bottom: 1px solid var(--line);
+  border-bottom: 1px solid var(--line-soft);
 }
 
 .category-filters {
@@ -84,7 +84,7 @@ body.modal-open {
 }
 
 .filter-chip {
-  border: 1px solid var(--line);
+  border: 1px solid var(--line-soft);
   background: var(--panel);
   color: var(--text);
   padding: 0.7rem 1rem;
@@ -118,8 +118,8 @@ body.modal-open {
   font: inherit;
   cursor: pointer;
   border-top: 0;
-  border-right: 1px solid var(--line);
-  border-bottom: 1px solid var(--line);
+  border-right: 1px solid var(--line-soft);
+  border-bottom: 1px solid var(--line-soft);
   border-left: 0;
   background: var(--panel);
   transition:
@@ -140,7 +140,7 @@ body.modal-open {
 .gallery-empty {
   grid-column: 1 / -1;
   padding: 2.5rem 1.5rem 3rem;
-  border-bottom: 1px solid var(--line);
+  border-bottom: 1px solid var(--line-soft);
   text-align: center;
 }
 
@@ -171,7 +171,6 @@ body.modal-open {
   flex: 1;
   margin: 0 0 1.6rem;
   padding: 1rem;
-  border: 1px solid var(--line);
   background: #ffffff;
 }
 
@@ -221,7 +220,7 @@ body.modal-open {
   margin: min(6vh, 3rem) auto;
   max-height: calc(100vh - min(12vh, 6rem));
   overflow: auto;
-  border: 1px solid var(--line);
+  border: 1px solid var(--line-soft);
   background: var(--panel);
 }
 
@@ -232,8 +231,8 @@ body.modal-open {
   display: block;
   margin-left: auto;
   border: 0;
-  border-left: 1px solid var(--line);
-  border-bottom: 1px solid var(--line);
+  border-left: 1px solid var(--line-soft);
+  border-bottom: 1px solid var(--line-soft);
   background: var(--panel);
   color: var(--text);
   width: 48px;
@@ -253,7 +252,7 @@ body.modal-open {
   display: grid;
   place-items: center;
   padding: 2rem;
-  border-right: 1px solid var(--line);
+  border-right: 1px solid var(--line-soft);
   background: #fafafa;
 }
 
@@ -302,7 +301,7 @@ body.modal-open {
   }
 
   .gallery-card:nth-child(4n) {
-    border-right: 1px solid var(--line);
+    border-right: 1px solid var(--line-soft);
   }
 
   .gallery-card:nth-child(2n) {
@@ -373,7 +372,7 @@ body.modal-open {
   .modal-media {
     padding: 1.2rem;
     border-right: 0;
-    border-bottom: 1px solid var(--line);
+    border-bottom: 1px solid var(--line-soft);
   }
 
   .modal-copy {

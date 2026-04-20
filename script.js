@@ -55,7 +55,6 @@ function attachCardInteractions(card) {
 function createCardMarkup(work) {
   return `
     <button class="gallery-card" type="button" data-id="${work.id}">
-      <span class="gallery-meta">${work.date}</span>
       <figure class="art-frame">
         <img src="${work.src}" alt="${work.title}" loading="lazy" />
       </figure>
